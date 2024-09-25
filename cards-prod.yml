@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Banking-App-2 cards related prod APIs "
   contactDetails:
     name: "Ziggy - Product Owner"
-    email: "zigstar@test.com"
+    email: "{cipher}10d41418ed356babc6bf57147dd439cc7dc046e25653cf97314624699ee8787b063924e51a63074611010257fe4a1ff9"
   onCallSupport:
     - (555) 444-3333
     - (555) 345-2345

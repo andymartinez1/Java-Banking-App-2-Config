@@ -5,7 +5,7 @@ loans:
   message: "Welcome to Banking-App-2 loans related local APIs "
   contactDetails:
     name: "Andy - Developer"
-    email: "andy@test.com"
+    email: "{cipher}4cb930a6ea0749cec990934d48c00cc7be843ebbb3cc725fbf0895dc20a84054"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
